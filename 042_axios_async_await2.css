@@ -1,0 +1,19 @@
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  line-height: 1.6;
+  font-family: sans-serif;
+}
+
+button{
+  font-weight: bold;
+  margin: 20px;
+  padding: 5px;
+}
+
+.contenido{
+  background-color: #c0c0c0;
+  padding: 10px;
+}
